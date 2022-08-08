@@ -6,17 +6,13 @@ author:
   - name: Selim Coskunuzer
 date: "`r Sys.Date()`"
 output: distill::distill_article
+bibliography: bibliography.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
-
-
-
-
-
+“Source A was Primer.data. It was flawless.”
+[@primerdata]
+[@jones2018distill]
