@@ -1,9 +1,9 @@
 |                                                 |
 |-------------------------------------------------|
-| Title: "Title of My Final Project"                |
-| Description: \|                                   |
+| Title: "*Title of My Final Project*"              |
+| Description: \|                                 |
 | This is where I will describe my final project. |
-| site: distill::distill_website                    |
+| Site: distill::distill_website                  |
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -23,4 +23,3 @@ mtcars |>
     x = "Weight (1000s of lbs)", y = "MPG",
     caption = "Henderson and Vellerman (1981)")
 ```
-

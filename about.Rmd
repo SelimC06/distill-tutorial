@@ -8,3 +8,24 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+* Name: **Selim Coskunuzer** 
+* School: Liberty High School 
+* Interest: Coding
+
+## About the Project
+
+* Title: Car-Plot
+* Description: x = WT, Y = MPG
+
+### Goals
+
+* Survive Kades Data Science Course 
++ Finishing every course
+* Have fun
+
+""This is data science""
+~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
